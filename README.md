@@ -8,7 +8,7 @@ This repo is my resume — [download the latest PDF](https://github.com/nabheet/
 
 ### 🔭 What I'm building
 
-- **MCP Ecosystem** — Model Context Protocol servers that bridge AI assistants with real-world tools. [vscode-mcp-server](https://github.com/nabheet/vscode-mcp-server) lets AI agents control VS Code; [pcbway-mcp-server](https://github.com/nabheet/pcbway-mcp-server) connects LLMs to PCB manufacturing APIs.
+- **MCP Ecosystem** — Model Context Protocol servers that bridge AI assistants with real-world tools. [google-services-mcp](https://github.com/nabheet/google-services-mcp) connects AI agents to Google services (Gmail, Calendar, Drive, Sheets, Docs, YouTube); [vscode-mcp-server](https://github.com/nabheet/vscode-mcp-server) lets AI agents control VS Code; [pcbway-mcp-server](https://github.com/nabheet/pcbway-mcp-server) connects LLMs to PCB manufacturing APIs.
 - **[Wiki On This Day](https://github.com/nabheet/wiki-on-this-day)** — Daily AI-generated video summaries of historical events, combining Wikipedia data with LLM curation.
 
 ### 🚀 Open source contributions
